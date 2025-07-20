@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "76d3ee60e6dacee1",
+        "id": "5763d291d2d4bf7d",
         "type": "tabs",
         "children": [
           {
-            "id": "d60186e142b44d80",
+            "id": "4f1eba42eacc36a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "91.01 Leetcode Problem Template"
             }
           }
         ]
@@ -229,8 +233,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d60186e142b44d80",
+  "active": "4f1eba42eacc36a9",
   "lastOpenFiles": [
+    "10-19 Programming/02 Leetcode/test.md",
+    "10-19 Programming/02 Leetcode/02.01",
     "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
     "00-09 System/00.00 Index.md",
     "Untitled.canvas",
@@ -244,7 +250,6 @@
     "00-09 Programming/Untitled",
     "10-19 Programming/00 Resources/00.01 Books/Operating Systems/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "10-19 Programming/00 Resources/00.01 Books/C++/A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
-    "10-19 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/Notes/Untitled.md",
     "TEst.md",
     "create a link.md",
