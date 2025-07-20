@@ -123,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design Patterns - Elements of Reusable Object Oriented Software - GOF"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,12 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Design Patterns - Elements of Reusable Object Oriented Software - GOF"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Design Patterns - Elements of Reusable Object Oriented Software - GOF"
+              "title": "Outline"
             }
           },
           {
@@ -232,17 +229,17 @@
   },
   "active": "a8a109f5230d606e",
   "lastOpenFiles": [
-    "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Untitled",
+    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/CLRS/Notes",
+    "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Notes",
+    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/CLRS/Introduction_to_algorithms-3rd Edition.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/CLRS",
+    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures",
     "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Computer Architecture",
     "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
     "00-09 Programming/00 Resources/00.01 Books/Design Patterns",
     "00-09 Programming/00 Resources/00.01 Books/Operating Systems/Operating Systems- Three Easy Pieces/Notes",
-    "00-09 Programming/00 Resources/00.01 Books/Operating Systems/Operating Systems- Three Easy Pieces/Operating Systems - Three Easy Pieces.pdf",
-    "00-09 Programming/00 Resources/00.01 Books/Operating Systems/Operating Systems- Three Easy Pieces",
-    "00-09 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I/Notes",
-    "00-09 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
-    "00-09 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/Notes/Untitled.md",
     "Untitled.md",
     "TEst.md",
