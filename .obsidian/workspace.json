@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f19091f31c3dc644",
+        "id": "399e5ba541610ac1",
         "type": "tabs",
         "children": [
           {
-            "id": "ce81424ddd4d819d",
+            "id": "4a1b6a3ae8685565",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/Algorithms 4th Ed./Algorithms 4th Ed.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 680,
-                "zoom": 1.6012396694214879
-              },
-              "icon": "lucide-file-text",
-              "title": "Algorithms 4th Ed"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -148,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/Algorithms 4th Ed./Algorithms 4th Ed.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Algorithms 4th Ed"
+              "title": "Outgoing links"
             }
           },
           {
@@ -236,19 +229,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ce81424ddd4d819d",
+  "active": "4a1b6a3ae8685565",
   "lastOpenFiles": [
-    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Operating Systems- Three Easy Pieces/Operating Systems - Three Easy Pieces.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/Algorithms 4th Ed./Algorithms 4th Ed.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Computer Architecture/Computer Architecture - A Quantitative Approach/Notes",
+    "00-09 Programming/00 Resources/00.01 Books/Computer Architecture/Computer Architecture - A Quantitative Approach/Computer Architecture A Quantitative Approach (5th edition).pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Computer Architecture/Computer Architecture - A Quantitative Approach",
+    "00-09 Programming/00 Resources/00.01 Books/Computer Architecture",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems/Operating Systems- Three Easy Pieces/Operating Systems - Three Easy Pieces.pdf",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ International Standard/Working Draft, Standard for Programming Language C++.pdf",
     "00-09 Programming/00 Resources/00.01 Books/C++/A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
-    "00-09 Programming/00 Resources/00.01 Books/C++/A Tour of C++/Notes",
-    "00-09 Programming/00 Resources/00.01 Books/C++/A Tour of C++",
-    "00-09 Programming/00 Resources/00.01 Books/C++/Effective Modern C++/Effective Modern C++.pdf",
-    "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
-    "00-09 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
-    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
-    "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Notes",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/Notes/Untitled.md",
     "Untitled.md",
     "TEst.md",
