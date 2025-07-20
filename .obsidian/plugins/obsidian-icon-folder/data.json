@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileCog",
       "LiUser",
       "LiSchool",
       "LiBook",
-      "LiActivity",
-      "LiTimer"
+      "LiActivity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "10-19 Programming/02 Leetcode": "LiActivity",
   "10-19 Programming/03 CP": "LiTimer",
   "10-19 Programming/00 Resources/00.01 Books": "LiBook",
-  "20-29 School": "LiSchool"
+  "20-29 School": "LiSchool",
+  "00-09 System": "LiFileCog"
 }

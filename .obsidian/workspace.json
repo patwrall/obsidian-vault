@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a61ec9daf07268cc",
+        "id": "76d3ee60e6dacee1",
         "type": "tabs",
         "children": [
           {
-            "id": "a0c155087d0e9c4b",
+            "id": "d60186e142b44d80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 System/00.00 Index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00.00 Index"
+              "title": "New tab"
             }
           }
         ]
@@ -110,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5124969482422
+    "width": 269.5124969482422
   },
   "right": {
     "id": "784395fcef21ce2e",
@@ -146,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-09 System/00.00 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00.00 Index"
+              "title": "Outgoing links"
             }
           },
           {
@@ -234,25 +229,26 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a8a109f5230d606e",
+  "active": "d60186e142b44d80",
   "lastOpenFiles": [
+    "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
+    "00-09 System/00.00 Index.md",
+    "Untitled.canvas",
+    "Test.md",
+    "90-99 System & Meta/92 Scripts/leetcode-quickadd.js",
+    "90-99 System & Meta/92 Scripts",
     "00-09 System",
     "90-99 System & Meta",
-    "00-09 System/00.00 Index.md",
     "10-19 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
     "10-19 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/Algorithms 4th Ed./Algorithms 4th Ed.pdf",
     "00-09 Programming/Untitled",
     "10-19 Programming/00 Resources/00.01 Books/Operating Systems/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "10-19 Programming/00 Resources/00.01 Books/C++/A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
     "10-19 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
-    "10-19 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
-    "10-19 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
-    "10-19 Programming/00 Resources/00.01 Books/Computer Architecture/Computer Architecture - A Quantitative Approach/Notes",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/Notes/Untitled.md",
     "TEst.md",
     "create a link.md",
     "Welcome.md",
-    "2025-07-18.md",
-    "Untitled.canvas"
+    "2025-07-18.md"
   ]
 }

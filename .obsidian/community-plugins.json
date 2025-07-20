@@ -11,5 +11,7 @@
   "cmdr",
   "obsidian-relative-line-numbers",
   "pdf-plus",
-  "obsidian-git"
+  "obsidian-git",
+  "quickadd",
+  "dataview"
 ]
