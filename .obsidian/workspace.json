@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "574f2b7614ee563f",
+        "id": "d3be786a0e3768eb",
         "type": "tabs",
         "children": [
           {
-            "id": "9813e18f4fa82263",
+            "id": "7adddc8ab8d16e49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+                "page": 1,
+                "left": 40,
+                "top": 593,
+                "zoom": 0.5558741080530072
+              },
+              "icon": "lucide-file-text",
+              "title": "CSAPP_2016"
             }
           }
         ]
@@ -123,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CSAPP_2016"
             }
           },
           {
@@ -141,11 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CSAPP_2016"
             }
           },
           {
@@ -169,12 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CSAPP_2016"
             }
           },
           {
@@ -229,17 +238,17 @@
   },
   "active": "a8a109f5230d606e",
   "lastOpenFiles": [
-    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/CLRS/Notes",
-    "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Notes",
-    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/CLRS/Introduction_to_algorithms-3rd Edition.pdf",
-    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/CLRS",
-    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures",
+    "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Notes",
+    "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
+    "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro",
     "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
-    "00-09 Programming/00 Resources/00.01 Books/Computer Architecture",
-    "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software",
-    "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
-    "00-09 Programming/00 Resources/00.01 Books/Design Patterns",
-    "00-09 Programming/00 Resources/00.01 Books/Operating Systems/Operating Systems- Three Easy Pieces/Notes",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Inside the Machine/Notes",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Inside the Machine/Inside Machine.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Inside the Machine",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/Notes",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective",
+    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/Algorithms 4th Ed./Notes",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/Notes/Untitled.md",
     "Untitled.md",
     "TEst.md",
