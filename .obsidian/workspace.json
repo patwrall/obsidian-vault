@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d3be786a0e3768eb",
+        "id": "39d5c79f09bb59b5",
         "type": "tabs",
         "children": [
           {
-            "id": "7adddc8ab8d16e49",
+            "id": "f8e08763d20f94d6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
-                "page": 1,
-                "left": 40,
-                "top": 593,
-                "zoom": 0.5558741080530072
+                "file": "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
+                "page": 19,
+                "left": -9,
+                "top": 497,
+                "zoom": 1.6145833333333333
               },
               "icon": "lucide-file-text",
-              "title": "CSAPP_2016"
+              "title": "Beginning C++23 From Beginner to Pro, 7th Edition (1)"
             }
           }
         ]
@@ -96,7 +96,7 @@
       {
         "id": "85a54720c677661c",
         "type": "tabs",
-        "dimension": 31.376518218623485,
+        "dimension": 31.37651821862348,
         "children": [
           {
             "id": "106d1d36994295b3",
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+                "file": "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CSAPP_2016"
+              "title": "Outgoing links from Beginning C++23 From Beginner to Pro, 7th Edition (1)"
             }
           },
           {
@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "51b71c7e2d39a99a",
@@ -236,8 +236,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a8a109f5230d606e",
+  "active": "f8e08763d20f94d6",
   "lastOpenFiles": [
+    "00-09 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Notes",
     "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
     "00-09 Programming/00 Resources/00.01 Books/C++/Beginning C++23 - From Beginner to Pro",
@@ -246,9 +248,7 @@
     "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Inside the Machine/Inside Machine.pdf",
     "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Inside the Machine",
     "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/Notes",
-    "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective",
-    "00-09 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/Algorithms 4th Ed./Notes",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/Notes/Untitled.md",
     "Untitled.md",
     "TEst.md",
