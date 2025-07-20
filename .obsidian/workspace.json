@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c501917edcf47dc8",
+        "id": "574f2b7614ee563f",
         "type": "tabs",
         "children": [
           {
-            "id": "233e3ed8f0694ad6",
+            "id": "9813e18f4fa82263",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Design Patterns - Elements of Reusable Object Oriented Software - GOF"
             }
           },
           {
@@ -141,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Design Patterns - Elements of Reusable Object Oriented Software - GOF"
             }
           },
           {
@@ -169,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Design Patterns - Elements of Reusable Object Oriented Software - GOF"
             }
           },
           {
@@ -209,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,19 +230,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "29a65ce72bd7b07b",
+  "active": "a8a109f5230d606e",
   "lastOpenFiles": [
-    "00-09 Programming/00 Resources/00.01 Books/C++/Effective Modern C++/Effective Modern C++.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Untitled",
+    "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software/Design Patterns - Elements of Reusable Object Oriented Software - GOF.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Design Patterns/Design Patters- Elements of Reusable Software",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Design Patterns",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems/Operating Systems- Three Easy Pieces/Notes",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems/Operating Systems- Three Easy Pieces/Operating Systems - Three Easy Pieces.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Operating Systems/Operating Systems- Three Easy Pieces",
+    "00-09 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I/Notes",
+    "00-09 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
+    "00-09 Programming/00 Resources/00.01 Books/Networking/TCP Illustrated, Vol I",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/Notes/Untitled.md",
-    "00-09 Programming/00 Resources/00.01 Books/C++/C++ International Standard/c++20标准.pdf",
-    "00-09 Programming/00 Resources/00.01 Books/C++/C++ International Standard",
-    "00-09 Programming/00 Resources/00.01 Books/Networking",
-    "00-09 Programming/00 Resources/00.01 Books/C++",
-    "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/Notes",
-    "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action",
-    "00-09 Programming/00 Resources/00.01 Books/C++/Effective Modern C++/Notes",
-    "00-09 Programming/00 Resources/00.01 Books/C++/Effective Modern C++",
     "Untitled.md",
     "TEst.md",
     "create a link.md",
