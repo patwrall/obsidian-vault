@@ -35,11 +35,10 @@
     "useInternalPlugins": false
   },
   "10-19 Programming": "LiFileCode",
-  "10-19 Programming/00 Resources": "LiBookPlus",
-  "10-19 Programming/01 Projects": "LiSheet",
-  "10-19 Programming/02 Leetcode": "LiActivity",
-  "10-19 Programming/03 CP": "LiTimer",
-  "10-19 Programming/00 Resources/00.01 Books": "LiBook",
   "20-29 School": "LiSchool",
-  "00-09 System": "LiFileCog"
+  "00-09 System": "LiFileCog",
+  "10-19 Programming/11 Projects": "LiSheet",
+  "10-19 Programming/12 Leetcode": "LiActivity",
+  "10-19 Programming/13 CP": "LiTimer",
+  "10-19 Programming/19 Resources": "LiBookPlus"
 }

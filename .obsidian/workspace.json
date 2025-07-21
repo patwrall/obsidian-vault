@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3936e1718ec9e22",
+        "id": "76bf21ae0c2e53a9",
         "type": "tabs",
         "children": [
           {
-            "id": "c0c18bd0bcc628b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "08f3fc752a4d318d",
+            "id": "8b384264aa579213",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -27,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5124969482422
+    "width": 332.5124969482422
   },
   "right": {
     "id": "784395fcef21ce2e",
@@ -240,23 +229,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "08f3fc752a4d318d",
+  "active": "8b384264aa579213",
   "lastOpenFiles": [
+    "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
+    "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Notes on Text.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01 Arrays & Hashing - Hub.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/Untitled",
+    "10-19 Programming/12 Leetcode/12.18 Bit Manipulation",
+    "10-19 Programming/12 Leetcode/12.17 Math & Geometry",
+    "10-19 Programming/12 Leetcode/12.16 Intervals",
+    "10-19 Programming/12 Leetcode/12.15 Greedy",
+    "10-19 Programming/12 Leetcode/12.14 2-D Dynamic Programming",
+    "10-19 Programming/12 Leetcode/12.13 1-D Dynamic Programming",
+    "10-19 Programming/12 Leetcode/12.12 Advanced Graphs",
+    "10-19 Programming/12 Leetcode/12.11 Graphs",
+    "10-19 Programming/12 Leetcode/12.10 Tries",
+    "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/notes 1.md",
     "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
     "10-19 Programming/02 Leetcode/test.md",
-    "10-19 Programming/02 Leetcode/02.01",
     "00-09 System/00.00 Index.md",
     "Untitled.canvas",
     "Test.md",
-    "90-99 System & Meta/92 Scripts/leetcode-quickadd.js",
-    "90-99 System & Meta/92 Scripts",
-    "00-09 System",
-    "90-99 System & Meta",
-    "10-19 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
-    "10-19 Programming/00 Resources/00.01 Books/Algorithms & Data Structures/Algorithms 4th Ed./Algorithms 4th Ed.pdf",
-    "00-09 Programming/Untitled",
-    "10-19 Programming/00 Resources/00.01 Books/Operating Systems/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
-    "10-19 Programming/00 Resources/00.01 Books/C++/A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
     "00-09 Programming/00 Resources/00.01 Books/C++/C++ Concurrency In Action/Notes/Untitled.md",
     "TEst.md",
     "create a link.md",
