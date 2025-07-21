@@ -28,11 +28,28 @@ by [[Bjarne Stroustrup]]
 ---
 
 ## My Core Takeaways
-_A few bullet points summarizing the most important things I learned from this book._
 - 
 
 ## Notes & Quotes
-_My raw notes, summaries, and direct quotes as I read the book. I can use headings for chapters._
+
+### Chapter 1: The Basics
+#### 1.7 Pointers, Arrays & References
+A pointer can be declared like 
+```cpp
+char *p = &v[3]; // point to v's 4th element
+char x = *p; // *p is the object that p points to
+```
+
+> [!PDF|yellow] [[Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf#page=24&selection=88,0,97,67&color=yellow|Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018), p.11]]
+> > In an expression, **prefix** unary ∗ means ‘‘contents of’’ and **prefix** unary & means ‘‘address of.’’ We can represent the result of that initialized definition graphically:
+
+![[Pasted image 20250721164306.png]]
+
+
+> [!PDF|yellow] [[Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf#page=25&selection=68,0,80,81&color=yellow|Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018), p.12]]
+> > In a declaration, the unary suffix & means ‘‘reference to.’’ A reference is similar to a pointer, except that you don’t need to use a prefix ∗ to access the value referred to by the reference. Also, a reference cannot be made to refer to a different object after its initialization.
+
+
 
 ### Chapter 4: Classes
 #### 4.4 Virtual Functions
