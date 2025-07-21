@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5763d291d2d4bf7d",
+        "id": "c3936e1718ec9e22",
         "type": "tabs",
         "children": [
           {
-            "id": "4f1eba42eacc36a9",
+            "id": "c0c18bd0bcc628b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "91.01 Leetcode Problem Template"
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "08f3fc752a4d318d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,11 +240,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4f1eba42eacc36a9",
+  "active": "08f3fc752a4d318d",
   "lastOpenFiles": [
+    "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
     "10-19 Programming/02 Leetcode/test.md",
     "10-19 Programming/02 Leetcode/02.01",
-    "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
     "00-09 System/00.00 Index.md",
     "Untitled.canvas",
     "Test.md",
