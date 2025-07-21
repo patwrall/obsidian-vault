@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarNoteSticky",
       "LiFileCog",
       "LiUser",
       "LiSchool",
-      "LiBook",
-      "LiActivity"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "10-19 Programming/11 Projects": "LiSheet",
   "10-19 Programming/12 Leetcode": "LiActivity",
   "10-19 Programming/13 CP": "LiTimer",
-  "10-19 Programming/19 Resources": "LiBookPlus"
+  "10-19 Programming/19 Resources": "LiBookPlus",
+  "80-89 Zettelkasten": "FarNoteSticky"
 }
