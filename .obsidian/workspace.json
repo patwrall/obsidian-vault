@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e6a4cb7b8f6f291",
+        "id": "9dfa4718db283206",
         "type": "tabs",
         "children": [
           {
-            "id": "7a511e1d904d7899",
+            "id": "b6780b42fb87339f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 Programming/00 Resources/00.01 Books/Operating Systems & Computer Architecture/Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSAPP_2016"
+              "title": "Outline"
             }
           },
           {
@@ -190,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "51b71c7e2d39a99a",
@@ -211,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,7 +227,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7a511e1d904d7899",
+  "active": "b6780b42fb87339f",
   "lastOpenFiles": [
     "10-19 Programming/19 Resources/19.05 Books - Networking/19.05.1 TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
     "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
