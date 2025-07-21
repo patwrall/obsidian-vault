@@ -14,7 +14,7 @@ publish_date: 2013-09-16
 isbn13: "9780133549003"
 isbn10: "0133549003"
 link: https://books.google.com/books/about/A_Tour_of_C++.html?hl=&id=EXfcAAAAQBAJ
-status: to read
+status: In Progress (Reference)
 template_type: Book
 ---
 ![cover|150](http://books.google.com/books/content?id=EXfcAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
@@ -34,5 +34,6 @@ _A few bullet points summarizing the most important things I learned from this b
 ## Notes & Quotes
 _My raw notes, summaries, and direct quotes as I read the book. I can use headings for chapters._
 
-### 
--
+### Chapter 4: Classes
+#### 4.4 Virtual Functions
+- 

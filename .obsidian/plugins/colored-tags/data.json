@@ -33,7 +33,8 @@
     "topic/programming": 2,
     "theme/programming": 2,
     "topic/concurrency": 3,
-    "zettel": 10
+    "zettel": 10,
+    "hash-table": 11
   },
   "_version": 3
 }
