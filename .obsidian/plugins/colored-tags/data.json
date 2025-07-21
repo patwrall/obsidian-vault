@@ -27,7 +27,13 @@
     "type/structure": 4,
     "structure": 8,
     "structure/bujo": 1,
-    "structure/xyz": 2
+    "structure/xyz": 2,
+    "topic": 9,
+    "topic/networking": 1,
+    "topic/programming": 2,
+    "theme/programming": 2,
+    "topic/concurrency": 3,
+    "zettel": 10
   },
   "_version": 3
 }
