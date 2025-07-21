@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9015cdf767565edb",
+        "id": "955443d61555c1ed",
         "type": "tabs",
         "children": [
           {
-            "id": "80d4d8266eab0461",
+            "id": "323ca259e0271a77",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80-89 Zettelkasten/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -226,15 +225,24 @@
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a8a109f5230d606e",
+  "active": "106d1d36994295b3",
   "lastOpenFiles": [
-    "80-89 Zettelkasten/81 Permanent Notes",
-    "80-89 Zettelkasten/Untitled.md",
+    "80-89 Zettelkasten/89 Resources/89.01 Obsidian Templates.md",
     "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
+    "90-99 System & Meta/91 Templates/91.02 3_Note Template.md",
+    "90-99 System & Meta/91 Templates/91.03 4_Book Template.md",
+    "90-99 System & Meta/91 Templates/91.04 5_BuJo - Daily Log.md",
+    "90-99 System & Meta/91 Templates/91.05 5_Structure Template.md",
+    "80-89 Zettelkasten/89 Resources",
+    "C++ Concurrency in Action - Anthony Williams.md",
+    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01 Arrays & Hashing - Hub.md",
+    "80-89 Zettelkasten/Untitled.md",
+    "80-89 Zettelkasten/81 Permanent Notes",
     "80-89 Zettelkasten",
     "10-19 Programming/19 Resources/19.05 Books - Networking/19.05.1 TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
@@ -243,9 +251,6 @@
     "10-19 Programming/12 Leetcode/12.18 Bit Manipulation",
     "10-19 Programming/12 Leetcode/12.17 Math & Geometry",
     "10-19 Programming/12 Leetcode/12.16 Intervals",
-    "10-19 Programming/12 Leetcode/12.15 Greedy",
-    "10-19 Programming/12 Leetcode/12.14 2-D Dynamic Programming",
-    "10-19 Programming/12 Leetcode/12.13 1-D Dynamic Programming",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/notes 1.md",
     "10-19 Programming/02 Leetcode/test.md",
     "00-09 System/00.00 Index.md",

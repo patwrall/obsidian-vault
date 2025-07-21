@@ -13,5 +13,7 @@
   "pdf-plus",
   "obsidian-git",
   "quickadd",
-  "dataview"
+  "dataview",
+  "obsidian-book-search-plugin",
+  "obsidian-wikipedia"
 ]
