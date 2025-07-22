@@ -4,43 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "cc10feb7b1274c33",
+        "id": "2d9ad23f1ba4096a",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8014254503f36a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
-                "page": 48,
-                "left": 34,
-                "top": 438,
-                "zoom": 1.4344783715012723
-              },
-              "icon": "lucide-file-text",
-              "title": "Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018)"
-            }
-          },
-          {
-            "id": "0828816ff038e0dd",
+            "id": "222eea7a6b73561e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.02 Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
-                "page": 33,
-                "left": -12,
-                "top": 431,
-                "zoom": 1.3422619047619049
+                "page": 232,
+                "left": -11,
+                "top": 161,
+                "zoom": 1.3988095238095242
               },
               "icon": "lucide-file-text",
               "title": "Beginning C++23 From Beginner to Pro, 7th Edition (1)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5124969482422
+    "width": 294.50418853759766
   },
   "right": {
     "id": "784395fcef21ce2e",
@@ -253,7 +236,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0828816ff038e0dd",
+  "active": "222eea7a6b73561e",
   "lastOpenFiles": [
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.02 Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
