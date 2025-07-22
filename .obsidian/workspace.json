@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.02 Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
-                "page": 441,
-                "left": -13,
-                "top": 51,
-                "zoom": 1.1130952380952381
+                "page": 450,
+                "left": -145,
+                "top": 421,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "Beginning C++23 From Beginner to Pro, 7th Edition (1)"
@@ -31,8 +31,8 @@
               "state": {
                 "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
                 "page": 20,
-                "left": 43,
-                "top": 624,
+                "left": -231,
+                "top": 99,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -40,20 +40,23 @@
             }
           },
           {
-            "id": "cbbc39541539a79b",
+            "id": "ca84054512ae6072",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/Book - C++ Concurrency in Action.md",
-                "mode": "source",
-                "source": false
+                "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.06 Effective Modern C++/Effective Modern C++.pdf",
+                "page": 165,
+                "left": -92,
+                "top": 335,
+                "zoom": 1.5
               },
-              "icon": "lucide-file",
-              "title": "Book - C++ Concurrency in Action"
+              "icon": "lucide-file-text",
+              "title": "Effective Modern C++"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,12 +269,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "af6d8824393d44db",
+  "active": "ca84054512ae6072",
   "lastOpenFiles": [
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
+    "10-19 Programming/19 Resources/19.02 Books - C++/19.02.06 Effective Modern C++/Effective Modern C++.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/Book - C++ Concurrency in Action.md",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.02 Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
-    "10-19 Programming/19 Resources/19.02 Books - C++/19.02.06 Effective Modern C++/Effective Modern C++.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Book - A Tour of C++.md",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.02 Beginning C++23 - From Beginner to Pro/Untitled.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507221604.md",
