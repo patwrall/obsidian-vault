@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4496773da4e4c30",
+        "id": "10d3933a5daef408",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6b33948c85d836",
+            "id": "3dfdd86361d9f9ed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -230,14 +230,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1b6b33948c85d836",
+  "active": "a8a109f5230d606e",
   "lastOpenFiles": [
+    "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Book - A Tour of C++.md",
     "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.02 Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
     "Pasted image 20250721164306.png",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
-    "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Book - A Tour of C++.md",
     "10-19 Programming/19 Resources/19.03 Books - Computer Architecture/19.03.01 Computer Architecture - A Quantitative Approach/Computer Architecture A Quantitative Approach (5th edition).pdf",
     "10-19 Programming/19 Resources/19.05 Books - Networking/19.05.1 TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
     "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
