@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2d9ad23f1ba4096a",
+        "id": "d4496773da4e4c30",
         "type": "tabs",
         "children": [
           {
-            "id": "222eea7a6b73561e",
+            "id": "1b6b33948c85d836",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.02 Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
-                "page": 263,
-                "left": -11,
-                "top": 409,
-                "zoom": 1.444940476190476
-              },
-              "icon": "lucide-file-text",
-              "title": "Beginning C++23 From Beginner to Pro, 7th Edition (1)"
-            }
-          },
-          {
-            "id": "4640c4e719f35abf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
-                "page": 50,
-                "left": -12,
-                "top": 657,
-                "zoom": 1.3714689265536724
-              },
-              "icon": "lucide-file-text",
-              "title": "C++ Concurrency in Action, 2nd Edition"
-            }
-          },
-          {
-            "id": "7034508abf320932",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 652,
-                "zoom": 1.2643229166666667
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction_to_algorithms-3rd Edition"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,12 +230,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7034508abf320932",
+  "active": "1b6b33948c85d836",
   "lastOpenFiles": [
+    "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.02 Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
     "Pasted image 20250721164306.png",
-    "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Book - A Tour of C++.md",
     "10-19 Programming/19 Resources/19.03 Books - Computer Architecture/19.03.01 Computer Architecture - A Quantitative Approach/Computer Architecture A Quantitative Approach (5th edition).pdf",
