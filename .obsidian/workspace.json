@@ -30,31 +30,17 @@
               "type": "pdf",
               "state": {
                 "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
-                "page": 337,
-                "left": -156,
-                "top": 6,
-                "zoom": 1.2
+                "page": 20,
+                "left": -4,
+                "top": 103,
+                "zoom": 2.187853107344633
               },
               "icon": "lucide-file-text",
               "title": "C++ Concurrency in Action, 2nd Edition"
             }
-          },
-          {
-            "id": "ca84054512ae6072",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10-19 Programming/19 Resources/19.02 Books - C++/19.02.06 Effective Modern C++/Effective Modern C++.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Effective Modern C++"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,8 +253,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ca84054512ae6072",
+  "active": "781ce3690890cb03",
   "lastOpenFiles": [
+    "80-89 Zettelkasten/89 Resources/89.01 Obsidian Templates.md",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.06 Effective Modern C++/Effective Modern C++.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/Book - C++ Concurrency in Action.md",
@@ -296,7 +283,6 @@
     "test.md",
     "80-89 Zettelkasten/81 Permanent Notes/Untitled.md",
     "10-19 Programming/19 Resources/19.05 Books - Networking/19.05.1 TCP Illustrated, Vol I/TCPIP Illustrated - Kevin R Fall W Richard Stevens.md",
-    "80-89 Zettelkasten/89 Resources/89.01 Obsidian Templates.md",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.05 C++ Templates- The Complete Guide/C++ Templates The Complete Guide, 2nd Edition.pdf",
     "90-99 System & Meta/93 Images/93.01 Cover Images",
     "90-99 System & Meta/93 Images",
