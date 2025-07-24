@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
-                "page": 2,
-                "left": 58,
-                "top": 587,
-                "zoom": 1.1913863404689091
+                "page": 34,
+                "left": 59,
+                "top": 240,
+                "zoom": 1.4
               },
               "icon": "lucide-file-text",
               "title": "CSAPP_2016"
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.50418853759766
+    "width": 263.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "784395fcef21ce2e",
@@ -256,10 +257,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d5086fccea7e45b4",
+  "active": "e5a23ff79e4f1929",
   "lastOpenFiles": [
-    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
+    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507241703.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1 Two Sum.md",

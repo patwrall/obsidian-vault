@@ -27,11 +27,13 @@ by [[J. Stanley Warford]]
 ---
 
 ## My Core Takeaways
-_A few bullet points summarizing the most important things I learned from this book._
 - 
 
 ## Notes & Quotes
-_My raw notes, summaries, and direct quotes as I read the book. I can use headings for chapters._
 
-### 
--
+### Chapter  1: A Tour Of Computer Systems
+#### 1.1 Information Is Bits + Context
+All information in a system is presented as a bunch of bits and the only thing that distinguishes between each object is the context at which we view them.
+
+#### 1.2 Programs Are Translated by Other Programs into Different Forms
+
