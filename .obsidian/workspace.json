@@ -8,33 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af307a62523b5298",
+            "id": "e5a23ff79e4f1929",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
-                "page": 33,
-                "left": -25,
-                "top": 591,
-                "zoom": 1.8
+                "page": 2,
+                "left": 58,
+                "top": 587,
+                "zoom": 1.1913863404689091
               },
               "icon": "lucide-file-text",
               "title": "CSAPP_2016"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8e74b2c59067e5b9",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7b59212c8ad22fa1",
+            "id": "d5086fccea7e45b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
+                "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.01.19 Longest Common Prefix"
+              "title": "Book - CSAPP"
             }
           }
         ]
@@ -250,10 +256,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "af307a62523b5298",
+  "active": "d5086fccea7e45b4",
   "lastOpenFiles": [
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
+    "80-89 Zettelkasten/81 Permanent Notes/202507241703.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1 Two Sum.md",
     "10-19 Programming/19 Resources/19.03 Books - Computer Architecture/19.03.01 Computer Architecture - A Quantitative Approach/Computer Architecture A Quantitative Approach (5th edition).pdf",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.02 Operating Systems- Three Easy Pieces/Operating Systems - Three Easy Pieces.pdf",
@@ -285,8 +293,6 @@
     "80-89 Zettelkasten/81 Permanent Notes/202507210006.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507210005.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507210001 Test Asdsd.md",
-    "80-89 Zettelkasten/81 Permanent Notes/202507202351 Test.md",
-    "test.md",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.05 C++ Templates- The Complete Guide/C++ Templates The Complete Guide, 2nd Edition.pdf",
     "Untitled.canvas"
   ]
