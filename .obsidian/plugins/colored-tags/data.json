@@ -34,7 +34,8 @@
     "theme/programming": 2,
     "topic/concurrency": 3,
     "zettel": 10,
-    "hash-table": 11
+    "hash-table": 11,
+    "sorting": 12
   },
   "_version": 3
 }
