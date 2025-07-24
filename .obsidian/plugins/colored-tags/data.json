@@ -36,7 +36,8 @@
     "zettel": 10,
     "hash-table": 11,
     "sorting": 12,
-    "string": 13
+    "string": 13,
+    "trie": 14
   },
   "_version": 3
 }
