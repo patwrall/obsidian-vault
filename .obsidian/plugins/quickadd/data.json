@@ -18,7 +18,9 @@
           "type": "UserScript",
           "id": "b7f23f4d-9807-4326-a83d-e8e9b5c1dbf0",
           "path": "90-99 System & Meta/92 Scripts/leetcode-quickadd.js",
-          "settings": {}
+          "settings": {
+            "LeetCode Tag Prefix": "leetcode/"
+          }
         },
         {
           "name": "Untitled Template Choice",

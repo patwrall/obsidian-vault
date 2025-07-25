@@ -4,46 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "41e696fde29933de",
+        "id": "aada2dbc9f2a6af7",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a23ff79e4f1929",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
-                "page": 39,
-                "left": 58,
-                "top": 610,
-                "zoom": 1.2200560652395516
-              },
-              "icon": "lucide-file-text",
-              "title": "CSAPP_2016"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8e74b2c59067e5b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d5086fccea7e45b4",
+            "id": "0b390127f26abeff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
+                "file": "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book - CSAPP"
+              "title": "12.01.19 Longest Common Prefix"
+            }
+          },
+          {
+            "id": "9076d2053a5b0242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.49 Group Anagrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.01.49 Group Anagrams"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,23 +249,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e5a23ff79e4f1929",
+  "active": "9076d2053a5b0242",
   "lastOpenFiles": [
-    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.02 Operating Systems- Three Easy Pieces/Operating Systems - Three Easy Pieces.pdf",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.49 Group Anagrams.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.27 Remove Element.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1929 Concatenation of Array.md",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.02 Operating Systems- Three Easy Pieces/Operating Systems - Three Easy Pieces.pdf",
     "10-19 Programming/19 Resources/19.03 Books - Computer Architecture/19.03.01 Computer Architecture - A Quantitative Approach/Computer Architecture A Quantitative Approach (5th edition).pdf",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724213719.png",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724213700.png",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724204547.png",
     "90-99 System & Meta/93 Attachments",
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507241703.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1 Two Sum.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.242 Valid Anagram.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507240041.md",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.02 Beginning C++23 - From Beginner to Pro/Beginning C++23 From Beginner to Pro, 7th Edition (1).pdf",
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1929 Concatenation of Array.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.217 Contains Duplicate.md",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/Book - C++ Concurrency in Action.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507232241.md",
@@ -296,7 +291,6 @@
     "80-89 Zettelkasten/81 Permanent Notes/202507210007.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507210006.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507210005.md",
-    "80-89 Zettelkasten/81 Permanent Notes/202507210001 Test Asdsd.md",
     "Untitled.canvas"
   ]
 }

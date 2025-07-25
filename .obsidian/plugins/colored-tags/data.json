@@ -38,7 +38,12 @@
     "sorting": 12,
     "string": 13,
     "trie": 14,
-    "topic/operating-systems": 4
+    "topic/operating-systems": 4,
+    "leetcode/array": 2,
+    "leetcode/two-pointers": 3,
+    "leetcode/hash-table": 4,
+    "leetcode/string": 5,
+    "leetcode/sorting": 6
   },
   "_version": 3
 }
