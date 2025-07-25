@@ -18,7 +18,7 @@ template_type: Book
 ---
 ![cover|150](http://books.google.com/books/content?id=JXfhCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
-# Computer Systems
+# Computer Systems:  A Programmer's Perspective
 by [[J. Stanley Warford]]
 
 > [!summary] Summary
@@ -36,4 +36,12 @@ by [[J. Stanley Warford]]
 All information in a system is presented as a bunch of bits and the only thing that distinguishes between each object is the context at which we view them.
 
 #### 1.2 Programs Are Translated by Other Programs into Different Forms
+On a Unix system, the translation from source file to an *executable object file* is done by a *compiler driver*.
 
+This translation is performed in four phases; *preprocessor*, *compiler*, *assembler*, and the *linker*, which are known collectively as the *compilation system.*
+
+![[Pasted image 20250724204547.png]]
+
+- *Preprocessing phase*. The compiler looks for the preprocessor modifies the C program according to directives that begin with `#` . The compiler essentially looks for the head file `stdio.h` and then insert the it directly into the program text. This results in another C program, typically with an `.i` suffix
+- *Compilation Phase*. The compiler `.i` text files to the the `.s` text files, which contain the assembly code. 
+- *Assembly Phase*. The assembler then translates the assembly into machine-language instructions and packages them into a form called *relocatable object program*. and stores result in a `.o`  object file.

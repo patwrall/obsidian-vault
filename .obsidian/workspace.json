@@ -13,7 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf"
+                "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+                "page": 35,
+                "left": 60,
+                "top": 342,
+                "zoom": 1.401630988786952
               },
               "icon": "lucide-file-text",
               "title": "CSAPP_2016"
@@ -253,10 +257,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e5a23ff79e4f1929",
+  "active": "d5086fccea7e45b4",
   "lastOpenFiles": [
-    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
+    "90-99 System & Meta/93 Attachments/Pasted image 20250724204547.png",
+    "90-99 System & Meta/93 Attachments",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507241703.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1 Two Sum.md",
@@ -290,7 +296,6 @@
     "80-89 Zettelkasten/81 Permanent Notes/202507210006.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507210005.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507210001 Test Asdsd.md",
-    "10-19 Programming/19 Resources/19.02 Books - C++/19.02.05 C++ Templates- The Complete Guide/C++ Templates The Complete Guide, 2nd Edition.pdf",
     "Untitled.canvas"
   ]
 }
