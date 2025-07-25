@@ -53,7 +53,7 @@ This translation is performed in four phases; *preprocessor*, *compiler*, *assem
 **Hardware organization of a typical system**
 
 ##### Buses
-Collection of electrical conduits that carry information between different parts of the system. They carry fixed-sized chinks of *bytes* known as words *words*. *Word sqize* depends on the system. 4 bytes in a 32 bit system and 8 bytes in a 64 bit system. 
+Collection of electrical conduits that carry information between different parts of the system. They carry fixed-sized chinks of *bytes* known as words *words*. *Word size* depends on the system. 4 bytes in a 32 bit system and 8 bytes in a 64 bit system. 
 ##### I/O Devices 
 
 ##### Main Memory

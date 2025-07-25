@@ -13,7 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf"
+                "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+                "page": 39,
+                "left": 60,
+                "top": 524,
+                "zoom": 1.401630988786952
               },
               "icon": "lucide-file-text",
               "title": "CSAPP_2016"
@@ -253,10 +257,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e5a23ff79e4f1929",
+  "active": "d5086fccea7e45b4",
   "lastOpenFiles": [
-    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724213719.png",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724213700.png",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724204547.png",
