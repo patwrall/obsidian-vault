@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
-                "page": 39,
-                "left": 60,
-                "top": 524,
-                "zoom": 1.401630988786952
+                "page": 38,
+                "left": 57,
+                "top": 387,
+                "zoom": 1.1037844036697249
               },
               "icon": "lucide-file-text",
               "title": "CSAPP_2016"
@@ -257,8 +257,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d5086fccea7e45b4",
+  "active": "e5a23ff79e4f1929",
   "lastOpenFiles": [
+    "10-19 Programming/19 Resources/19.03 Books - Computer Architecture/19.03.01 Computer Architecture - A Quantitative Approach/Computer Architecture A Quantitative Approach (5th edition).pdf",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724213719.png",
@@ -268,7 +269,6 @@
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507241703.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1 Two Sum.md",
-    "10-19 Programming/19 Resources/19.03 Books - Computer Architecture/19.03.01 Computer Architecture - A Quantitative Approach/Computer Architecture A Quantitative Approach (5th edition).pdf",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.02 Operating Systems- Three Easy Pieces/Operating Systems - Three Easy Pieces.pdf",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.242 Valid Anagram.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507240041.md",
