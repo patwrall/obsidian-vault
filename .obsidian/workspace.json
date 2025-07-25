@@ -13,11 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
-                "page": 35,
-                "left": 60,
-                "top": 342,
-                "zoom": 1.401630988786952
+                "file": "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf"
               },
               "icon": "lucide-file-text",
               "title": "CSAPP_2016"
@@ -132,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.50418853759766,
+    "width": 209.5,
     "collapsed": true
   },
   "right": {
@@ -257,10 +253,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d5086fccea7e45b4",
+  "active": "e5a23ff79e4f1929",
   "lastOpenFiles": [
-    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
+    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
+    "90-99 System & Meta/93 Attachments/Pasted image 20250724213719.png",
+    "90-99 System & Meta/93 Attachments/Pasted image 20250724213700.png",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724204547.png",
     "90-99 System & Meta/93 Attachments",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",

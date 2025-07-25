@@ -43,5 +43,18 @@ This translation is performed in four phases; *preprocessor*, *compiler*, *assem
 ![[Pasted image 20250724204547.png]]
 
 - *Preprocessing phase*. The compiler looks for the preprocessor modifies the C program according to directives that begin with `#` . The compiler essentially looks for the head file `stdio.h` and then insert the it directly into the program text. This results in another C program, typically with an `.i` suffix
-- *Compilation Phase*. The compiler `.i` text files to the the `.s` text files, which contain the assembly code. 
+- *Compilation Phase*. The compiler translates`.i` text files to the the `.s` text files, which contain the assembly code. 
 - *Assembly Phase*. The assembler then translates the assembly into machine-language instructions and packages them into a form called *relocatable object program*. and stores result in a `.o`  object file.
+- *Linking Phase*. Separately compiled code and data files are compiled into a single executable object file.
+
+#### 1.4 Processors Read and Interpret Instructions Stored in Memory
+
+![[Pasted image 20250724213700.png]]
+**Hardware organization of a typical system**
+
+##### Buses
+Collection of electrical conduits that carry information between different parts of the system. They carry fixed-sized chinks of *bytes* known as words *words*. *Word sqize* depends on the system. 4 bytes in a 32 bit system and 8 bytes in a 64 bit system. 
+##### I/O Devices 
+
+##### Main Memory
+##### Processor
