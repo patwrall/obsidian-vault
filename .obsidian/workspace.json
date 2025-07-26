@@ -34,9 +34,25 @@
               "icon": "lucide-file",
               "title": "12.01.49 Group Anagrams"
             }
+          },
+          {
+            "id": "c75c030e12b5cdbc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
+                "page": 268,
+                "left": -7,
+                "top": 46,
+                "zoom": 2.0638020833333335
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction_to_algorithms-3rd Edition"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,10 +265,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9076d2053a5b0242",
+  "active": "c75c030e12b5cdbc",
   "lastOpenFiles": [
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.49 Group Anagrams.md",
+    "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.01 Algorithms 4th Ed./Algorithms 4th Ed.pdf",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.27 Remove Element.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1929 Concatenation of Array.md",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
@@ -280,7 +297,6 @@
     "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
     "Pasted image 20250721164306.png",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.01 A Tour of C++/Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018).pdf",
-    "10-19 Programming/19 Resources/19.05 Books - Networking/19.05.1 TCP Illustrated, Vol I/TCP-IP_Illustrated.pdf",
     "90-99 System & Meta/91 Templates/91.01 Leetcode Problem Template.md",
     "90-99 System & Meta/91 Templates/91.04 5_BuJo - Daily Log.md",
     "90-99 System & Meta/91 Templates/91.05 5_Structure Template.md",
@@ -290,7 +306,6 @@
     "Bjarne Stroustrup.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507210007.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507210006.md",
-    "80-89 Zettelkasten/81 Permanent Notes/202507210005.md",
     "Untitled.canvas"
   ]
 }
