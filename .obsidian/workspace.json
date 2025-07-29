@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c7420777ee4fdaad",
+        "id": "e3370693adbe9e42",
         "type": "tabs",
         "children": [
           {
-            "id": "583bc2e43e77bcf0",
+            "id": "8e2ebe6e92fa22ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
+                "page": 216,
+                "left": -8,
+                "top": 520,
+                "zoom": 1.9348958333333333
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction_to_algorithms-3rd Edition"
             }
           }
         ]
@@ -230,8 +236,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a8a109f5230d606e",
+  "active": "8e2ebe6e92fa22ac",
   "lastOpenFiles": [
+    "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.99 - Miscellaneous",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.05 - Legal & Compliance",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.04 - Engineering & Development",
@@ -241,7 +248,6 @@
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.00 - Meta & Logs",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)",
     "80-89 Zettelkasten/81 Permanent Notes/202507272226.md",
-    "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.49 Group Anagrams.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.01 Algorithms 4th Ed./Algorithms 4th Ed.pdf",
