@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e3370693adbe9e42",
+        "id": "559bb291339eb298",
         "type": "tabs",
         "children": [
           {
-            "id": "8e2ebe6e92fa22ac",
+            "id": "129ec41f88294750",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
-                "page": 216,
-                "left": -8,
-                "top": 520,
-                "zoom": 1.9348958333333333
+                "file": "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1929 Concatenation of Array.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction_to_algorithms-3rd Edition"
+              "icon": "lucide-file",
+              "title": "12.01.1929 Concatenation of Array"
             }
           }
         ]
@@ -236,8 +234,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8e2ebe6e92fa22ac",
+  "active": "129ec41f88294750",
   "lastOpenFiles": [
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.27 Remove Element.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.49 Group Anagrams.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.217 Contains Duplicate.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.242 Valid Anagram.md",
+    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1929 Concatenation of Array.md",
     "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.99 - Miscellaneous",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.05 - Legal & Compliance",
@@ -248,21 +252,14 @@
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.00 - Meta & Logs",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)",
     "80-89 Zettelkasten/81 Permanent Notes/202507272226.md",
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.49 Group Anagrams.md",
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.01 Algorithms 4th Ed./Algorithms 4th Ed.pdf",
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.27 Remove Element.md",
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1929 Concatenation of Array.md",
-    "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/CSAPP_2016.pdf",
     "10-19 Programming/19 Resources/19.06 Books - Operating Systems/19.06.01 Computer Systems A Programmer’s Perspective/Book - CSAPP.md",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724213719.png",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724213700.png",
     "90-99 System & Meta/93 Attachments/Pasted image 20250724204547.png",
     "80-89 Zettelkasten/81 Permanent Notes/202507241703.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1 Two Sum.md",
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.242 Valid Anagram.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507240041.md",
-    "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.217 Contains Duplicate.md",
     "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/Book - C++ Concurrency in Action.md",
     "80-89 Zettelkasten/81 Permanent Notes/202507232241.md",
     "80-89 Zettelkasten/89 Resources/89.01 Obsidian Templates.md",
