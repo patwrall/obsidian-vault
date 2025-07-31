@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "559bb291339eb298",
+        "id": "552e59ccb64acd36",
         "type": "tabs",
         "children": [
           {
-            "id": "129ec41f88294750",
+            "id": "3bbd202e211cb599",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1 Two Sum.md",
-                "mode": "source",
-                "source": false
+                "file": "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
+                "page": 171,
+                "left": -8,
+                "top": 1,
+                "zoom": 1.9348958333333333
               },
-              "icon": "lucide-file",
-              "title": "12.01.1 Two Sum"
+              "icon": "lucide-file-text",
+              "title": "Introduction_to_algorithms-3rd Edition"
             }
           }
         ]
@@ -234,8 +236,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "129ec41f88294750",
+  "active": "3bbd202e211cb599",
   "lastOpenFiles": [
+    "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
+    "10-19 Programming/19 Resources/19.02 Books - C++/19.02.03 C++ Concurrency In Action/C++ Concurrency in Action, 2nd Edition.pdf",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1 Two Sum.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.19 Longest Common Prefix.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.27 Remove Element.md",
@@ -243,7 +247,6 @@
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.1929 Concatenation of Array.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.217 Contains Duplicate.md",
     "10-19 Programming/12 Leetcode/12.01 Arrays & Hashing/12.01.242 Valid Anagram.md",
-    "10-19 Programming/19 Resources/19.01 Books - Algorithms & Data Structures/19.01.02 Introduction to Algorithms - CLRS/Introduction_to_algorithms-3rd Edition.pdf",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.99 - Miscellaneous",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.05 - Legal & Compliance",
     "10-19 Programming/11 Projects/11.01 FortaLend (Research Phase)/11.01.04 - Engineering & Development",
