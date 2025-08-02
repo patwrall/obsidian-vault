@@ -34,4 +34,3 @@ _A few bullet points summarizing the most important things I learned from this b
 _My raw notes, summaries, and direct quotes as I read the book. I can use headings for chapters._
 
 ### 
--
