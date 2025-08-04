@@ -1,13 +1,17 @@
 # System 
 - [x]  Time Sync & Locale 
 - [x] Bluetooth
-- [ ] Syncthing?
-- [ ] Optimizations
-
+- [x] Syncthing?
+- [x] Optimizations
+# Home
+- [ ] Hyprland
+- [ ] Quickshell Quickshell Quickshell
+- [ ] Starship 
 # Laptop
+- [ ] Intel Profile/Driver
 - [ ] Touchpad inputs
 - [ ] Touchscreen Inputs
-- [ ] Intel Profile/Driver
 - [ ] Fingerprint reader (see fprint or libfprintf)
+- [ ] Brightness 
 # Desktop
 - [ ] Nvidia Profile/Driver
