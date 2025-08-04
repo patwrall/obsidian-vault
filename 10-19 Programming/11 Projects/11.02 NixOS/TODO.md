@@ -1,8 +1,8 @@
 # System 
-- [ ]  Time Sync & Locale 
+- [x]  Time Sync & Locale 
 - [x] Bluetooth
 - [ ] Syncthing?
-- [ ] 
+- [ ] Optimizations
 
 # Laptop
 - [ ] Touchpad inputs
