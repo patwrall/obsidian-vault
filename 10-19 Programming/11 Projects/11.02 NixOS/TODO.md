@@ -5,7 +5,9 @@
 - [x] Optimizations
 - [ ] Secrets with sops-nix
 # Home
-- [ ] Hyprland
+- [ ] Hyprland 
+	- [ ] Bindings
+	- [ ] Theming 
 - [ ] Quickshell Quickshell Quickshell
 - [ ] Starship 
 # Laptop
