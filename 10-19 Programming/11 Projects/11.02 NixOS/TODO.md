@@ -3,6 +3,7 @@
 - [x] Bluetooth
 - [x] Syncthing?
 - [x] Optimizations
+- [ ] Secrets with sops-nix
 # Home
 - [ ] Hyprland
 - [ ] Quickshell Quickshell Quickshell
