@@ -5,14 +5,22 @@
 - [x] Optimizations
 - [ ] Secrets with sops-nix
 # Home
+- [x] Fish
+- [ ] Kitty
+- [ ] Global Theming (stylix?)
 - [ ] Hyprland 
 	- [ ] Bindings
-	- [ ] Theming 
-	
+	- [ ] Theming
+	- [ ] execs	
+	- [ ] animations
+	- [ ] rules
+	- [ ] env
+	- [ ] colours
+	- [ ] decorations
 - [ ] Quickshell Quickshell Quickshell
+	- [ ] 
 - [x] Starship 
-- [ ] Fish
-- [ ] Kitty 
+- [ ] 
 # Laptop
 - [ ] Intel Profile/Driver
 - [ ] Touchpad inputs
