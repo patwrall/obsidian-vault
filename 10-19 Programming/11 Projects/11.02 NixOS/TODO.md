@@ -8,8 +8,11 @@
 - [ ] Hyprland 
 	- [ ] Bindings
 	- [ ] Theming 
+	
 - [ ] Quickshell Quickshell Quickshell
-- [ ] Starship 
+- [x] Starship 
+- [ ] Fish
+- [ ] Kitty 
 # Laptop
 - [ ] Intel Profile/Driver
 - [ ] Touchpad inputs
